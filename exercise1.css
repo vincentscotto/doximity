@@ -22,7 +22,7 @@ sup {
 
 h3 sup {
   display: inline-block;
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid #000000;
   padding-bottom: 3px;
 }
 
@@ -48,7 +48,7 @@ img {
 p {
   font-family: arial, san-serif;
   font-size: 13px;
-  color: black;
+  color: #000000;
   margin-top: 0;
 }
 
