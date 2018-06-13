@@ -11,7 +11,7 @@ h2 {
 }
 
 h3 {
-  margin: 0;
+  margin: 10px 0 0 0;
   text-decoration: underline;
   font-size: 14px;
 }
@@ -27,7 +27,7 @@ h3 sup {
 }
 
 h4 {
-  margin: 20px 0 0 0;
+  margin: 10px 0 0 0;
   font-size: 14px;
 }
 
